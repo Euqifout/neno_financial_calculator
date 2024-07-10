@@ -11,7 +11,7 @@ This repository contains a simple Python program that allows users to access two
 
 1. **Clone the repository**:
     ```sh
-    [git clone https://github.com/yourusername/financial-calculators.git](https://github.com/Euqifout/Calculator.git)
+    [git clone https://github.com/Euqifout/financial-calculators.git](https://github.com/Euqifout/Calculator.git)
     cd financial-calculators
     ```
 
@@ -56,9 +56,9 @@ This repository contains a simple Python program that allows users to access two
 - Python 3.x
 
 # Screenshot
-![Screenshot (7)](https://github.com/Oarabile24/Calculator/assets/169250085/dc41c49f-f258-4bb2-b4f4-b0784c7e523c)
+![Screenshot (7)](https://github.com/Euqifout/Calculator/assets/169250085/dc41c49f-f258-4bb2-b4f4-b0784c7e523c)
 
-![Screenshot (8)](https://github.com/Oarabile24/Calculator/assets/169250085/a1aef58a-6005-4539-8232-fcd24170cc92)
+![Screenshot (8)](https://github.com/Euqifout/Calculator/assets/169250085/a1aef58a-6005-4539-8232-fcd24170cc92)
 
 
 ## License
